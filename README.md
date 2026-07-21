@@ -5,8 +5,8 @@ Nye, gratis ebokutgåver av Arne Garborgs 1918-omsetting av Odysséen
 
 Nedlasting er uhyre enkelt for dei som ikkje kjenner GitHub:
 
-Klikk på ePub-fila (eller PDF-fila når denne er opplasta) og velg “Last ned”. Resten avheng av leseskjermane dokker.
-Windows har enno ikkje innebygd støtte, så da blir det anten tredjepartsleverandør eller Microsofts [ePub File Reader](https://apps.microsoft.com/detail/9nbfmm45tjpt?hl=nn-NO&gl=SA).
+Klikk på den understreka ePub-fila (eller PDF-fila når denne er opplasta), og vel så “Download Raw file” frå ikona til høgre. Resten avheng av leseskjermane dokker.
+Windows har enno ikkje innebygd støtte for ePub-formatet, så da blir det anten tredjepartsleverandørar eller Microsofts [ePub File Reader](https://apps.microsoft.com/detail/9nbfmm45tjpt?hl=nn-NO&gl=SA).
 
 Kindle har eg ikkje planlagt eigen støtte for. Eg er lei på dokker vegne, men programmet [Calibre](https://calibre-ebook.com/) er brukande så de kan konvertere åt AZW3-formatet sjølve.
 
