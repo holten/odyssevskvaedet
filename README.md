@@ -1,5 +1,5 @@
 # Odyssevskvædet
-Nye, gratis ebokutgåver av Arne Garborgs 1918-omsetting av Odysséen
+Nye, gratis ebokutgåver av Arne Garborgs 1918-omsetting av Odysséen, etter [skanninga på Nasjonalbiblioteket](https://www.nb.no/items/URN:NBN:no-nb_digibok_2006120701020).
 
 ### Å lesa boka
 
