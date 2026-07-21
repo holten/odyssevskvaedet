@@ -48,7 +48,7 @@ Til dømes
   * kanhende med fotnotar el.l.?
   * hyperlenkjer?
   * tooltips?
-linjenummerering i ePub (tiandekvar, i det minste)
-Avansert ePub
+* linjenummerering i ePub (tiandekvar, i det minste)
+* Avansert ePub
 
 Det er å rekne med at somme feil og manglar enno finst att i utgåva, så meld gjerne frå om slike.
