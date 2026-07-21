@@ -8,9 +8,10 @@ Nedlasting er uhyre enkelt for dei som ikkje kjenner GitHub:
 Klikk på den understreka ePub-fila (eller PDF-fila når denne er opplasta), og vel så “Download Raw file” frå ikona til høgre. Resten avheng av leseskjermane dokker.
 Windows har enno ikkje innebygd støtte for ePub-formatet, så da blir det anten tredjepartsleverandørar eller Microsofts [ePub File Reader](https://apps.microsoft.com/detail/9nbfmm45tjpt?hl=nn-NO&gl=SA).
 
-Kindle har eg ikkje planlagt eigen støtte for. Eg er lei på dokker vegne, men programmet [Calibre](https://calibre-ebook.com/) er brukande så de kan konvertere åt AZW3-formatet sjølve.
+Kindle har eg ikkje planlagt eigen støtte for. Eg er lei på dokker vegne, men ebokhandsamingsprogrammet [Calibre](https://calibre-ebook.com/) er brukande så de kan konvertere åt AZW3-formatet sjølve, da blir teksta i alle fall lesbart.
 
-### Endringar frå den prenta 1919-utgåva:
+
+### Endringar frå den prenta 1919-utgåva
 
 Framsideportrettet er nytt, jamvel om John Flaxman teikna det i 1793.
 
@@ -18,11 +19,12 @@ Utgjevar er meg, og ikkje H. Aschehoug & Co / William Nygaard.
 
 Ei lenka innhaldsoversikt er sett inn.
 
-Rettingane som var ført over to sider heilt sist i den prenta 1919-utgåva, er omsider tekne til følgje og lagt inn i teksta. Dei to sidene er likevel med i boka, for å syne kor nøye redaksjonsarbeidet har gått føre seg.
+Rettingane som var ført over to sider heilt sist i andre opplaget frå 1919, er omsider tekne til følgje og lagt inn i teksta. Dei to sidene er likevel med i boka, for å syne kor nøye redaksjonsarbeidet har gått føre seg.
  
-I det øvrige har eg avstått frå å gjera oppdateringar eller eigen korrektur av den prenta teksta, men heller streva mot å gjera henne så tru mot boksida frå underlaget (2. opplaget utan teikningar) som det gjekk. Det inneber at klåre trykkfeil som “Telémakes” i III,11 står uendra, men òg at ein heil del av dei mange ordformene med diakritiske aksentar finst i variasjon. Det er lite å ergre seg over, så send heller ein vennleg tanke åt fortidas settarar og typografar hos Det Mallingske Bogtrykkeri, som laut forhalde seg til eit vanskeleg manus med litt av eit petimeter over seg.
+I det øvrige har eg avstått frå å gjera oppdateringar eller eigen korrektur av den prenta teksta, men heller streva mot å gjera henne så tru mot boksida frå underlaget (utgåva utan teikningar) som det gjekk. Det inneber at klåre trykkfeil som “Telémakes” i song III,11 står uendra, men òg at ein heil del av dei mange ordformene med diakritiske aksentar finst i variasjon. Det er lite å ergre seg over, så send heller ein vennleg tanke åt fortidas settarar og typografar hos Det Mallingske Bogtrykkeri, som laut forhalde seg til eit vanskeleg manus med litt av eit petimeter over seg.
 
 Likevel har eg gjort eit par forenklande unnatak på det typografiske planet: Dobla mellomrom etter avslutta periode inne i verslinene utgår. Boka har som regel prenta kursiv, men har somme stadar òg markert utheving gjennom sperring av minusklar. Desse er her berre attgjevne som kursiv.
+
 
 ### Stort og smått
 
@@ -34,9 +36,17 @@ For lesarar som kjem nye åt anten Odysséen eller Garborg-norsken, er det tilr�
 
 Det er no så at reiseruta på denne odysséen vil vera brattare for den reisande, og kan vera meir krevjande enn andre ruter ein kan velja, men landskapet og detaljane er villare, verkets natur kjem nærare på oss, og utsikta frå toppunkta er vel så givande.
 
-### Strekkje-mål 
 
-Illustrasjonane frå John Flaxman!
+### Vidare lesnad
+
+* Amadou, Christine: "[Norske gjendikninger og oversettelser av Homer.](https://www.oversetterleksikon.no/norske-gjendiktninger-og-oversettelser-av-homer/)" *Norsk oversetterleksikon*. Norsk oversetterforening, 2020.
+* Grønlie, Espen: "Åndsaristokratisk Kompost? Arne Garborg og *Odyssevskvædet*". *Norsk litterær årbok* s. 151. Det Norske Samlaget, 2023.
+* Aareskjold, Solveig: *Sanninga om Homer*. Essays. Spartacus, 2025.
+
+
+### Strekkje-mål?
+
+Illustrasjonane frå John Flaxman
 
 
 ### Framtidige ting å gjera
@@ -52,3 +62,5 @@ Til dømes
 * Avansert ePub
 
 Det er å rekne med at somme feil og manglar enno finst att i utgåva, så meld gjerne frå om slike.
+
+
