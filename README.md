@@ -8,7 +8,7 @@ Nedlasting er uhyre enkelt for dei som ikkje kjenner GitHub:
 Klikk på den understreka ePub-fila (eller PDF-fila når denne er opplasta), og vel så “Download Raw file” frå ikona til høgre. Resten avheng av leseskjermane dokker.
 Windows har enno ikkje innebygd støtte for ePub-formatet, så da blir det anten tredjepartsleverandørar eller Microsofts [ePub File Reader](https://apps.microsoft.com/detail/9nbfmm45tjpt?hl=nn-NO&gl=SA).
 
-Kindle har eg ikkje planlagt eigen støtte for. Eg er lei på dokker vegne, men ebokhandsamingsprogrammet [Calibre](https://calibre-ebook.com/) er brukande så de kan konvertere åt AZW3-formatet sjølve, da blir teksta i alle fall lesbart.
+Kindle har eg ikkje planlagt eigen støtte for. Eg er lei på dokker vegne, men ebokhandsamingsprogrammet [Calibre](https://calibre-ebook.com/) er brukande så de kan konvertere åt AZW3-formatet sjølve, da blir teksta i alle fall lesbar.
 
 
 ### Endringar frå den prenta 1919-utgåva
@@ -40,7 +40,7 @@ Det er no så at reiseruta på denne odysséen vil vera brattare for den reisand
 ### Vidare lesnad
 
 * Amadou, Christine: "[Norske gjendikninger og oversettelser av Homer.](https://www.oversetterleksikon.no/norske-gjendiktninger-og-oversettelser-av-homer/)" *Norsk oversetterleksikon*. Norsk oversetterforening, 2020.
-* Grønlie, Espen: "Åndsaristokratisk Kompost? Arne Garborg og *Odyssevskvædet*". *Norsk litterær årbok* s. 151. Det Norske Samlaget, 2023.
+* Grønlie, Espen: "Åndsaristokratisk Kompost? Arne Garborg og *Odyssevskvædet*". *Norsk litterær årbok 2023* s. 151. Det Norske Samlaget, 2023.
 * Aareskjold, Solveig: *Sanninga om Homer*. Essays. Spartacus, 2025.
 
 
