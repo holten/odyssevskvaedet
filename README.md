@@ -8,7 +8,7 @@ Nedlasting er uhyre enkelt for dei som ikkje kjenner GitHub:
 Klikk på den understreka ePub-fila (eller PDF-fila når denne er opplasta), og vel så “Download Raw file” frå ikona til høgre. Resten avheng av leseskjermane dokker.
 Windows har enno ikkje innebygd støtte for ePub-formatet, så da blir det anten tredjepartsleverandørar eller Microsofts [ePub File Reader](https://apps.microsoft.com/detail/9nbfmm45tjpt?hl=nn-NO&gl=SA).
 
-Kindle har eg ikkje planlagt eigen støtte for. Eg er lei på dokker vegne, men ebokhandsamingsprogrammet [Calibre](https://calibre-ebook.com/) er brukande så de kan konvertere åt AZW3-formatet sjølve, da blir teksta i alle fall lesbar.
+Kindle har eg ikkje planlagt eigen støtte for. Eg er lei på dokker vegne, men ebokhandsamingsprogrammet [Calibre](https://calibre-ebook.com/) er brukande så de kan konvertere åt AZW3-formatet sjølve, da blir teksta i alle fall lesbar. Eller bruk funksjonen "Send to Kindle" for å kjøre ePub (men da kan eg ikkje stå inne for formatering/layout, det ser ut som det blir dobbel verselineavstand i strofene).
 
 
 ### Endringar frå den prenta 1919-utgåva
