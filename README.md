@@ -41,6 +41,7 @@ Det er no så at reiseruta på denne odysséen vil vera brattare for den reisand
 
 * Amadou, Christine: "[Norske gjendikninger og oversettelser av Homer.](https://www.oversetterleksikon.no/norske-gjendiktninger-og-oversettelser-av-homer/)" *Norsk oversetterleksikon*. Norsk oversetterforening, 2020.
 * Grønlie, Espen: "Åndsaristokratisk Kompost? Arne Garborg og *Odyssevskvædet*". *Norsk litterær årbok 2023* s. 151. Det Norske Samlaget, 2023.
+* Haarberg, Jon: "[Arne Garborg, 1851–1924](https://www.oversetterleksikon.no/2023/07/01/arne-garborg-1851-1924/)" *Norsk oversetterleksikon*. Norsk oversetterforening, 2023.
 * Aareskjold, Solveig: *Sanninga om Homer*. Essays. Spartacus, 2025.
 
 
